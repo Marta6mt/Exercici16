@@ -47,6 +47,7 @@ namespace Exercici16
         static public void Sims()
         {
             Console.WriteLine("Hola, Soc els sims");
+	    Console.WriteLine("El més basic");
         }
         static public void Sims2()
         {
