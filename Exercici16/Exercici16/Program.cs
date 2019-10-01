@@ -57,6 +57,7 @@ namespace Exercici16
         static public void Sims3()
         {
             Console.WriteLine("Hola, Soc els sims3");
+	    Console.WriteLine("Anem millorant");
         }
         static public void Sims4()
         {
