@@ -51,6 +51,7 @@ namespace Exercici16
         static public void Sims2()
         {
             Console.WriteLine("Hola, Soc els sims2");
+	    Console.WriteLine("Sóc igual de dolent que l'1");
         }
         static public void Sims3()
         {
